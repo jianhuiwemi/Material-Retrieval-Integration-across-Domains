@@ -1,1 +1,1 @@
-# MaRi: Material Recognition for Image Retrieval
+# MaRI: Material Retrieval Integration across Domains
