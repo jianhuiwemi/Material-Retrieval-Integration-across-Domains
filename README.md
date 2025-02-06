@@ -8,6 +8,6 @@
 
 <table class="center">
   <tr>
-    <td width=100% style="border: none"><img src="pictures/teaser.jpg" style="width:100%"></td>
+    <td width=100% style="border: none"><img src="figures/teaser.jpg" style="width:100%"></td>
   </tr>
 </table>
