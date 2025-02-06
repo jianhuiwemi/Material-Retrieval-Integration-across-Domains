@@ -11,3 +11,11 @@
     <td width=100% style="border: none"><img src="figures/teaser.jpg" style="width:100%"></td>
   </tr>
 </table>
+
+## Text-to-Image Generation
+### 1. Set Environment
+```bash
+conda env create -f environment.yml
+conda activate MaRI
+```
+### 2. Quick Start
