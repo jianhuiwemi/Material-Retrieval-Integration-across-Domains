@@ -11,7 +11,7 @@
     <td width=100% style="border: none"><img src="figures/teaser.jpg" style="width:100%"></td>
   </tr>
 </table>
-
+</div> 
 ## Text-to-Image Generation
 ### 1. Set Environment
 ```bash
