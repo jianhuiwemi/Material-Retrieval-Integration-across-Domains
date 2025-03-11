@@ -14,10 +14,4 @@
 
 </div>
 
-## Text-to-Image Generation
-### 1. Set Environment
-```bash
-conda env create -f environment.yml
-conda activate MaRI
-```
-### 2. Quick Start
+
