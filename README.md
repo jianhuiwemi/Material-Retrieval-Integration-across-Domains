@@ -6,3 +6,15 @@
 <a href="https://arxiv.org/abs/2503.08111"><img src="https://img.shields.io/badge/ArXiv-2503.01370-brightgreen"></a> 
 
 </div>
+
+# 📥 Dataset Construction Pipeline
+## Synthetic Dataset
+## Real-world Dataset
+
+
+# ⭐ Inference
+
+
+
+## Download the pretrained model
+
