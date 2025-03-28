@@ -8,8 +8,10 @@
 </div>
 
 # 📥 Dataset Construction Pipeline
-## Synthetic Dataset
-## Real-world Dataset
+## Synthetic Data
+## Real-world Data
+
+# ⚙ Train
 
 
 # ⭐ Inference
