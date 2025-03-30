@@ -27,7 +27,7 @@ MaRI/
 │   │   ├── modelC.glb
 │   │   └── modelD.glb
 │   └── ...
-├── material/
+├── materials/
 │   ├── material1/
 │   │   ├── material1_Color.jpg
 │   │   ├── material1_NormalGL.jpg
