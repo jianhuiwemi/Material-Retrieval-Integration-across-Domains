@@ -45,7 +45,7 @@ MaRI/
 │       ├── env2.hdr
 │       └── ...
 └── data/
-    └── final/
+    └── synthetic/
         ├── 1/
         │   ├── fig.png
         │   └── mask.png
