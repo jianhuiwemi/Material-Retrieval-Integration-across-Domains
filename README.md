@@ -27,7 +27,7 @@ MaRI/
 │   │   ├── modelC.glb
 │   │   └── modelD.glb
 │   └── ...
-├── figure/
+├── material/
 │   ├── material1/
 │   │   ├── material1_Color.jpg
 │   │   ├── material1_NormalGL.jpg
@@ -52,8 +52,7 @@ MaRI/
         ├── 2/
         │   ├── fig.png
         │   └── mask.png
-        ├── render_log.txt
-        └── used_records.json
+        └── ...
 
 ```
 
