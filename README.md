@@ -9,6 +9,13 @@
 
 # 📥 Dataset Construction Pipeline
 ## Synthetic Data
+We use [Blender 4.2](https://www.blender.org/) to render the synthetic dataset. Our rendering pipeline is provided here, allowing you to generate your own dataset easily. To create your dataset, simply run:
+  
+```bash
+python render.py
+
+
+
 ## Real-world Data
 
 # ⚙ Train
