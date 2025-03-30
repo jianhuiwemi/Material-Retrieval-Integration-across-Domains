@@ -13,7 +13,7 @@ We use [Blender 4.2](https://www.blender.org/) to render the synthetic dataset. 
   
 ```bash
 python render.py
-
+```
 
 
 ## Real-world Data
