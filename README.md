@@ -15,8 +15,14 @@ We provide detailed pipeline instructions and related explanations in two files:
 
 
 # ⚙ Train
+We provide training scripts in `train/stage1.py` and `train/stage2.py`. You can run them using:
 
-
+```bash
+python train/stage1.py  # Train on large-scale synthetic data
+```
+```bash
+python train/stage2.py  # Fine-tune on real-world data
+```
 # ⭐ Inference
 
 
