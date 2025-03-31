@@ -8,59 +8,21 @@
 </div>
 
 # 📥 Dataset Construction Pipeline
-## Synthetic Data
+We provide detailed pipeline instructions and related explanations in two files: [Synthetic Data](./dataset/synthetic/readme.md) and [Real-world Data](./dataset/real/readme.md). Please refer to each for more information.
 
-We use [Blender 4.2.2](https://www.blender.org/) to render the synthetic dataset. Our rendering pipeline is provided here. To create your dataset, simply run:
-  
-```bash
-/path/blender-4.2.2-linux-x64/blender -b --python /dataset/synthetic/render.py
-```
-This is the files structure:
-```bash
-MaRI/
-├── blender-4.2.2-linux-x64/
-├── objs/
-│   ├── 000-xxx/
-│   │   ├── modelA.glb
-│   │   └── modelB.glb
-│   ├── 000-xxx/
-│   │   ├── modelC.glb
-│   │   └── modelD.glb
-│   └── ...
-├── materials/
-│   ├── material1/
-│   │   ├── material1_Color.jpg
-│   │   ├── material1_NormalGL.jpg
-│   │   ├── material1_Roughness.jpg
-│   │   ├── material1_Displacement.jpg
-│   │   └── material1_Metalness.jpg
-│   ├── material2/
-│   │   ├── material2_Color.jpg
-│   │   ├── material2_NormalGL.jpg
-│   │   └── ...
-│   └── ...
-├── hdri/
-│   └── hdri_files/
-│       ├── env1.hdr
-│       ├── env2.hdr
-│       └── ...
-└── data/
-    └── synthetic/
-        ├── 1/
-        │   ├── fig.png
-        │   └── mask.png
-        ├── 2/
-        │   ├── fig.png
-        │   └── mask.png
-        └── ...
 
-```
 
-## Real-world Data
+
 
 # ⚙ Train
+We provide training scripts in `train/stage1.py` and `train/stage2.py`. You can run them using:
 
-
+```bash
+python train/stage1.py  # Train on large-scale synthetic data
+```
+```bash
+python train/stage2.py  # Fine-tune on real-world data
+```
 # ⭐ Inference
 
 

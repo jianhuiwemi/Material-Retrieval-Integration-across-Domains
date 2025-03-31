@@ -154,7 +154,7 @@ def save_mask_data(output_dir, mask_list, box_list, label_list, target, excel_ro
             img1 = img1.resize(size2, Image.LANCZOS)
     data1 = np.array(img1)
     data2 = np.array(img2)
-    # 创建一个布尔数组，判断哪些像素是白色的
+
     white_pixels = (data1[:, :, 0] > 200) & (data1[:, :, 1] > 200) & (data1[:, :, 2] > 200)
     black_pixels = (data1[:, :, 0] < 20) & (data1[:, :, 1] < 20) & (data1[:, :, 2] < 20)
     
