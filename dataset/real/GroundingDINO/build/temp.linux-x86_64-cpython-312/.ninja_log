@@ -1,0 +1,5 @@
+# ninja log v5
+1	1131	1728030432338177343	/root/autodl-tmp/project/GSM/GroundingDINO/build/temp.linux-x86_64-cpython-312/root/autodl-tmp/project/GSM/GroundingDINO/groundingdino/models/GroundingDINO/csrc/cuda_version.o	2c8955697011e8e9
+0	6855	1728030438050148607	/root/autodl-tmp/project/GSM/GroundingDINO/build/temp.linux-x86_64-cpython-312/root/autodl-tmp/project/GSM/GroundingDINO/groundingdino/models/GroundingDINO/csrc/MsDeformAttn/ms_deform_attn_cpu.o	2d7ad8cd084a6bc0
+1	18828	1728030450018087384	/root/autodl-tmp/project/GSM/GroundingDINO/build/temp.linux-x86_64-cpython-312/root/autodl-tmp/project/GSM/GroundingDINO/groundingdino/models/GroundingDINO/csrc/vision.o	c0566b1aa74eb089
+0	22192	1728030453362070035	/root/autodl-tmp/project/GSM/GroundingDINO/build/temp.linux-x86_64-cpython-312/root/autodl-tmp/project/GSM/GroundingDINO/groundingdino/models/GroundingDINO/csrc/MsDeformAttn/ms_deform_attn_cuda.o	594867cf1c62e045
