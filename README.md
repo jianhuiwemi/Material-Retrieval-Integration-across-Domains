@@ -8,7 +8,7 @@
 </div>
 
 # 📥 Dataset Construction Pipeline
-We provide detailed pipeline instructions and related explanations in two files: [Synthetic Data](./dataset/synthetic/readme.md) and [Real-world Data](./dataset/real/readme.md).
+We provide detailed pipeline instructions and related explanations in two files: [Synthetic Data](./dataset/synthetic/readme.md) and [Real-world Data](./dataset/real/readme.md).Please refer to each for more information.
 
 
 
