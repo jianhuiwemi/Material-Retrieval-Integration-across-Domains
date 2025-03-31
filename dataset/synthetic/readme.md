@@ -47,6 +47,6 @@ MaRI/
 
 ```
 ## Download Data
-You can download HDRIs and materials using `hdri/downloadhdri.py` and `materials/downloadmaterial.py`, and obtain 3D object models from the [Objaverse](https://objaverse.allenai.org/) official website.
+You can unzip `hdri/hdri_files.zip` and download materials using `materials/downloadmaterial.py`, and obtain 3D object models from the [Objaverse](https://objaverse.allenai.org/) official website.
 
 
