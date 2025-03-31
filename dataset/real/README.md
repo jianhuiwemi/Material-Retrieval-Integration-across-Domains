@@ -5,7 +5,7 @@
 1. Create conda environment:
 ```bash
 conda env create -f environment.yml
-conda activate env3
+conda activate real
 ```
 rename folder -groundingdino to groundingdino and put it into the site-packages folder of your virtual environment
 
