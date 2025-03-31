@@ -1,0 +1,1 @@
+dataset/synthetic/hdri/hdri_files.zip filter=lfs diff=lfs merge=lfs -text
