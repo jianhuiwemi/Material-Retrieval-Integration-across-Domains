@@ -1,6 +1,6 @@
 # Synthetic Dataset
 
-## Installation Instructions
+## Render Pipeline
 We use [Blender 4.2.2](https://www.blender.org/) to render the synthetic dataset. Our rendering pipeline is provided here. To create your dataset, simply run:
   
 ```bash
