@@ -2,20 +2,14 @@
 
 ## Installation Instructions
 
-1. Clone the repository:
-```bash
-git clone https://github.com/22307130220/456.git
-cd 456
-```
-
-2. Create conda environment:
+1. Create conda environment:
 ```bash
 conda env create -f environment.yml
 conda activate env3
 ```
 rename folder -groundingdino to groundingdino and put it into the site-packages folder of your virtual environment
 
-3. Set up directories and download model weights:
+2. Set up directories and download model weights:
 ```bash
 mkdir input_image
 mkdir output
@@ -26,7 +20,7 @@ wget https://huggingface.co/google-bert/bert-base-uncased/resolve/main/pytorch_m
 mv pytorch_model.bin bert-base-uncased
 ```
 
-4. Set up IP-Adapter and DPT:
+3. Set up IP-Adapter and DPT:
 ```bash
 cd zest_code
 git clone https://huggingface.co/h94/IP-Adapter
