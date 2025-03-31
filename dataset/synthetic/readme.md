@@ -47,8 +47,6 @@ MaRI/
 
 ```
 ## Download Data
-We provide scripts to automatically download the required assets including OBJ models, materials, and HDRI environments. You can run the following command to download these assets:
-
-Alternatively, if you prefer to use your own assets, please prepare the files accordingly and organize them in the corresponding directories as shown in the file structure above.
+You can download HDRIs and materials using `hdri/downloadhdri.py` and `materials/downloadmaterial.py`, and obtain 3D object models from the [Objaverse](https://objaverse.allenai.org/) official website.
 
 
