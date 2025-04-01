@@ -14,7 +14,7 @@ We provide detailed pipeline instructions and related explanations in two files:
 
 
 
-# ⚙ Train
+# ⚙ Fine-tune
 We provide training scripts in `train/stage1.py` and `train/stage2.py`. You can run them using:
 
 ```bash
