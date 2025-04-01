@@ -20,7 +20,7 @@ We provide training scripts in `train/stage1.py` and `train/stage2.py`. You can 
 ```bash
 python train/stage-1.py  # Fine-tune on large-scale synthetic data
 ```
-We found that fine-tuning on large-scale **synthetic data** for just **one epoch** yields the best performance. Then, we further improve generalization by performing a **second-stage fine-tuning** on **real-world data** with a lower learning rate.
+We found that fine-tuning on large-scale synthetic data for just one epoch yields the best performance. Then, we further improve generalization by performing a second-stage fine-tuning on real-world data with a lower learning rate.
 ```bash
 python train/stage-2.py  # Fine-tune on real-world data
 ```
