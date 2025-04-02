@@ -23,7 +23,7 @@ python train/stage-2.py  # Fine-tune on real-world data
 
 ## ⭐ Inference
 
-Download the pre-trained model weights from [this link](https://example.com/path/to/weights.pth). Then, modify paths in `inference.py` as needed. Simply run:
+Download the pre-trained model weights from [this link]([https://example.com/path/to/weights.pth](https://drive.google.com/file/d/1rlHUrPDShA_w1OmJF8Eeo-SMX_-CJaGD/view?usp=drive_link)). Then, modify paths in `inference.py` as needed. Simply run:
 ```bash
 python inference.py
 ```
@@ -44,4 +44,8 @@ If you find our work useful for your research or applications, please cite using
 ```
 
 ## 💐 Acknowledgements
-
+We gratefully acknowledge the following resources and communities that made this work possible:
+- [DINOv2](https://github.com/facebookresearch/dinov2) for the powerful pre-trained vision models.
+- [Objaverse](https://objaverse.allenai.org) for providing a diverse collection of 3D models.
+- [AmbientCG](https://ambientcg.com) for high-quality material textures.
+- [HDRI Haven](https://polyhaven.com/hdris) for the free high-dynamic-range images used in our lighting setups.
