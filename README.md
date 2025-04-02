@@ -28,10 +28,10 @@ python train/stage-2.py  # Fine-tune on real-world data
 
 ## ⭐ Inference
 
-Download the pre-trained model weights from [this link](https://example.com/path/to/weights.pth). Then, modify paths in `inference.py` as needed.
-
-We also provide a simple tool that allows users to mark regions of interest in the input image, making it easier to focus on the area you're interested in during retrieval. Simply run:
-
+Download the pre-trained model weights from [this link](https://example.com/path/to/weights.pth). Then, modify paths in `inference.py` as needed. Simply run:
 ```bash
 python inference.py
 ```
+We also provide a simple tool that allows users to mark regions of interest in the input image. You can try it using `tool.py`.
+
+
