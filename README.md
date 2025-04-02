@@ -34,4 +34,16 @@ python inference.py
 ```
 We also provide a simple tool that allows users to mark regions of interest in the input image. You can try it using `tool.py`.
 
-
+## 📝 Citation
+If you find our work useful for your research or applications, please cite using this BibTeX:
+```bibtex
+@misc{wang2025marimaterialretrievalintegration,
+      title={MaRI: Material Retrieval Integration across Domains}, 
+      author={Jianhui Wang and Zhifei Yang and Yangfan He and Huixiong Zhang and Yuxuan Chen and Jingwei Huang},
+      year={2025},
+      eprint={2503.08111},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2503.08111}, 
+}
+```
