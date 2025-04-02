@@ -23,7 +23,7 @@ python train/stage-2.py  # Fine-tune on real-world data
 
 ## ⭐ Inference
 
-Download the pre-trained model weights from [this link]([https://example.com/path/to/weights.pth](https://drive.google.com/file/d/1rlHUrPDShA_w1OmJF8Eeo-SMX_-CJaGD/view?usp=drive_link)). Then, modify paths in `inference.py` as needed. Simply run:
+Download the pre-trained model weights from [this link](https://drive.google.com/file/d/1rlHUrPDShA_w1OmJF8Eeo-SMX_-CJaGD/view?usp=drive_link). Then, modify paths in `inference.py` as needed. Simply run:
 ```bash
 python inference.py
 ```
