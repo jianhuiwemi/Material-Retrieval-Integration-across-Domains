@@ -29,6 +29,11 @@ python inference.py
 ```
 We also provide a simple tool that allows users to mark regions of interest in the input image. You can try it using `tool.py`.
 
+## 🎯TODO
+
+We plan to organize and release our dataset as open-source in the near future.
+
+
 ## 📝 Citation
 If you find our work useful for your research or applications, please cite using this BibTeX:
 ```bibtex
