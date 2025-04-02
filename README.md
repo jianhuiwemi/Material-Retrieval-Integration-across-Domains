@@ -10,10 +10,6 @@
 ## 📥 Dataset Construction Pipeline
 We provide detailed pipeline instructions and related explanations in two files: [Synthetic Data](./dataset/synthetic/readme.md) and [Real-world Data](./dataset/real/readme.md). Please refer to each for more information.
 
-
-
-
-
 ## ⚙ Fine-tune
 We provide training scripts in `train/stage1.py` and `train/stage2.py`. You can run them using:
 
@@ -24,7 +20,6 @@ We found that fine-tuning on large-scale synthetic data for just one epoch yield
 ```bash
 python train/stage-2.py  # Fine-tune on real-world data
 ```
-
 
 ## ⭐ Inference
 
@@ -47,3 +42,6 @@ If you find our work useful for your research or applications, please cite using
       url={https://arxiv.org/abs/2503.08111}, 
 }
 ```
+
+## 💐 Acknowledgements
+
