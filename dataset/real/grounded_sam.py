@@ -154,7 +154,7 @@ def save_mask_data(output_dir, mask_list, box_list, label_list, target, excel_ro
             img1 = img1.resize(size2, Image.LANCZOS)
     data1 = np.array(img1)
     data2 = np.array(img2)
-
+    # 创建一个布尔数组，判断哪些像素是白色的
     white_pixels = (data1[:, :, 0] > 200) & (data1[:, :, 1] > 200) & (data1[:, :, 2] > 200)
     black_pixels = (data1[:, :, 0] < 20) & (data1[:, :, 1] < 20) & (data1[:, :, 2] < 20)
     
@@ -370,6 +370,9 @@ if __name__ == "__main__":
           plt.savefig(string,
         bbox_inches="tight", dpi=300, pad_inches=0.0 )
           excel_row[3] = 1  
+          img = cv2.imread(image_path, cv2.IMREAD_GRAYSCALE) 
+          inverted_img = cv2.bitwise_not(img)  
+          cv2.imwrite(image_path, inverted_img) 
         except:
             pass
 
