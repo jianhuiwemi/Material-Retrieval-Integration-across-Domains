@@ -1,4 +1,15 @@
 # Real-world Dataset
+The target material image determines the background composition of your output, while the input image determines the main content. The system will extract the main content from the input image and combine it with the target material image to produce a complete output image.
+
+Here are some example images for reference:
+![example_images](segment_anything/assets/example.png)
+
+We have provided these example images in the folder for your reference when checking the expected results at each step.
+
+Special note: We recommend avoiding input images where:
+- The main content occupies too small a portion of the image
+- The main content is discontinuously positioned in the image
+Our tests show such images tend to produce unsatisfactory results.
 
 ## Installation Instructions
 
