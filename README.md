@@ -5,7 +5,7 @@
 [![Project Page](https://img.shields.io/badge/Project_Page-Online-EA3A97)](https://jianhuiwemi.github.io/MaRI)
 [![arXiv](https://img.shields.io/badge/arXiv-2503.08111-b31b1b.svg)](https://arxiv.org/abs/2503.08111)
 [![CVPR 2025](https://img.shields.io/badge/CVPR-2025-blue.svg)](https://cvpr.thecvf.com/virtual/2025/poster/34069)
-[![HF Release](https://img.shields.io/badge/HuggingFace-MaRI-yellow?logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCAxMDI0IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxjaXJjbGUgY3g9IjUxMiIgY3k9IjUxMiIgcj0iNTEyIiBmaWxsPSIjRkZEMzU1Ii8+PHBhdGggZD0iTTM0MCAzNzVjMCA2MCA0MCAxMjAgMTIwIDEyMHMxMjAtNjAgMTIwLTEyMCIgc3Ryb2tlPSJibGFjayIgc3Ryb2tlLXdpZHRoPSI0MCIgZmlsbD0iI0ZGRiIvPjxwYXRoIGQ9Ik00MjAgNDgwYzAgMzAgMjAgNjAgNjAgNjBzNjAtMzAgNjAtNjAiIGZpbGw9IiNGRkYiLz48L3N2Zz4=)](https://huggingface.co/datasets/jianhuiwemi/MaRI)
+[![HF Release](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-blue)](https://huggingface.co/datasets/jianhuiwemi/MaRI)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 </div>
