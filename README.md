@@ -2,10 +2,10 @@
 
 <div align="center">
 
-[![Project Page](https://img.shields.io/badge/Project_Page-green)](https://jianhuiwemi.github.io/MaRI)
+[![Project Page](https://img.shields.io/badge/Project_Page-purple)](https://jianhuiwemi.github.io/MaRI)
 [![arXiv](https://img.shields.io/badge/arXiv-2503.08111-b31b1b.svg)](https://arxiv.org/abs/2503.08111)
 [![CVPR 2025](https://img.shields.io/badge/CVPR-2025-blue.svg)](https://cvpr.thecvf.com/virtual/2025/poster/34069)
-[![HF Release](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Release-blue)](https://huggingface.co/datasets/jianhuiwemi/MaRI)
+[![HF Release](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Release-orange)](https://huggingface.co/datasets/jianhuiwemi/MaRI)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 </div>
