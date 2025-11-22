@@ -5,7 +5,7 @@
 [![Project Page](https://img.shields.io/badge/Project_Page-Online-EA3A97)](https://jianhuiwemi.github.io/MaRI)
 [![arXiv](https://img.shields.io/badge/arXiv-2503.08111-b31b1b.svg)](https://arxiv.org/abs/2503.08111)
 [![CVPR 2025](https://img.shields.io/badge/CVPR-2025-blue.svg)](https://cvpr.thecvf.com/virtual/2025/poster/34069)
-[![Release](https://huggingface.co/front/assets/huggingface_logo.svg)](https://huggingface.co/datasets/jianhuiwemi/MaRI)
+[![Release](https://img.shields.io/badge/HuggingFace-MaRI-yellow?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjRkZENzAwIiBkPSJNMCAwaDEyOHYxMjhIMHoiLz48L3N2Zz4=)](https://huggingface.co/datasets/jianhuiwemi/MaRI)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 </div>
