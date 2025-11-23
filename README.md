@@ -17,7 +17,7 @@
 
 ## 📥 Dataset Construction Pipeline
 We provide detailed pipeline instructions and related explanations in two files: [Synthetic Data](./dataset/synthetic/readme.md) and [Real-world Data](./dataset/real/readme.md). Please refer to each for more information.
-
+We have released the full MaRI dataset on HuggingFace: [link](https://huggingface.co/datasets/jianhuiwemi/MaRI).
 ## ⚙ Fine-tune
 Create and activate the Conda environment:
 ```bash
