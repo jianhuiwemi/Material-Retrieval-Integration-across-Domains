@@ -69,4 +69,4 @@ We gratefully acknowledge the following resources and communities that made this
 
 ## 📬 Contact
 For any questions or collaboration requests, please contact Jianhui:
-📧 Email: [jianhuiwang309@gmail.com](mailto:jianhuiwang309@gmail.com)
+[jianhuiwang309@gmail.com](mailto:jianhuiwang309@gmail.com)
