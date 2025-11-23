@@ -50,14 +50,13 @@ We plan to organize and release our dataset as open-source in the near future. �
 ## 📝 Citation
 If you find our work useful for your research or applications, please cite using this BibTeX:
 ```bibtex
-@misc{wang2025marimaterialretrievalintegration,
-      title={MaRI: Material Retrieval Integration across Domains}, 
-      author={Jianhui Wang and Zhifei Yang and Yangfan He and Huixiong Zhang and Yuxuan Chen and Jingwei Huang},
-      year={2025},
-      eprint={2503.08111},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2503.08111}, 
+@InProceedings{Wang_2025_CVPR,
+    author    = {Wang, Jianhui and Yang, Zhifei and He, Yangfan and Zhang, Huixiong and Chen, Yuxuan and Huang, Jingwei},
+    title     = {MaRI: Material Retrieval Integration across Domains},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2025},
+    pages     = {5814-5823}
 }
 ```
 
@@ -67,3 +66,7 @@ We gratefully acknowledge the following resources and communities that made this
 - [Objaverse](https://objaverse.allenai.org) for providing a diverse collection of 3D models.
 - [AmbientCG](https://ambientcg.com) for high-quality material textures.
 - [HDRI Haven](https://polyhaven.com/hdris) for the free high-dynamic-range images used in our lighting setups.
+
+## 📬 Contact
+For any questions or collaboration requests, please contact Jianhui:
+📧 Email: [jianhuiwang309@gmail.com](mailto:jianhuiwang309@gmail.com)
