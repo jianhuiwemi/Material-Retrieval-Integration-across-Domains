@@ -43,7 +43,7 @@ We also provide a simple tool that allows users to mark regions of interest in t
 
 ## 🎯TODO
 
-We plan to organize and release our dataset as open-source in the near future.
+[x] We plan to organize and release our dataset as open-source in the near future.
 
 
 ## 📝 Citation
